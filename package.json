@@ -1,0 +1,31 @@
+{
+  "name": "courier-nextjs-quickstart",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A working Courier Inbox in a Next.js App Router app: server-issued JWT, real-time inbox, one send script.",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "send": "tsx scripts/send.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@trycourier/courier": "^9.2.0",
+    "@trycourier/courier-react": "^9.2.12",
+    "next": "^16.3.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "dotenv": "^16.4.7",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.0"
+  }
+}
