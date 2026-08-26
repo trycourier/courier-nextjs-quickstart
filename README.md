@@ -2,7 +2,7 @@
 
 A working [Courier Inbox](https://www.courier.com/docs/in-app/overview) in a Next.js App Router app. Clone it, add an API key, and you have a real-time notification inbox in about five minutes.
 
-This is the companion project for [Add an inbox to Next.js](https://www.courier.com/docs/get-started/nextjs) in the Courier docs.
+This is the companion project for [Add an inbox to Next.js](https://www.courier.com/docs/guides/add-an-inbox-to-nextjs) in the Courier docs.
 
 ## What it shows
 
