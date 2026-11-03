@@ -14,7 +14,7 @@ Four files. Everything else is `create-next-app` defaults.
 
 ## Run it
 
-You need Node 20.9 or newer and a [Courier account](https://app.courier.com/signup).
+You need Node 22.19 or newer and a [Courier account](https://app.courier.com/signup).
 
 ```bash
 git clone https://github.com/trycourier/courier-nextjs-quickstart.git
